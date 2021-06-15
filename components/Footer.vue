@@ -82,8 +82,18 @@ footer {
     align-items: center;
     flex-direction: column;
   }
+  .footer-top {
+    margin-bottom: 25px;
+  }
   .mail, .tag {
-    max-width: auto;
+    display: flex;
+    max-width: 100%;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .mail {
+    padding-bottom: 15px;
   }
 }
 </style>
