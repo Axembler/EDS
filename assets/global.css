@@ -1,0 +1,25 @@
+@import url(./fonts.css);
+
+html {
+    font-family: Inter;
+    color: #1F1F1F;
+    font-size: 16px;
+    word-spacing: 1px;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+  }
+.main, .header, .footer {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.main {
+    padding: 0 30px;
+}
+a { text-decoration: none; }
+/* .active_link {
+    border-bottom-color: #1f2023 !important;
+} */
