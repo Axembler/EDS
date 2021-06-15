@@ -77,4 +77,13 @@ footer {
     max-width: 40%;
   }
 }
+@media (max-width: 340px) {
+  .footer-bottom {
+    align-items: center;
+    flex-direction: column;
+  }
+  .mail, .tag {
+    max-width: auto;
+  }
+}
 </style>
