@@ -10,6 +10,7 @@
     "heroku-postbuild": "npm run build"
   },
   "dependencies": {
+    "@rkaliev/nuxtjs-yandex-metrika": "^1.3.0",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3",
     "nuxt-start": "^2.15.6"

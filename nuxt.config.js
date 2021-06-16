@@ -38,6 +38,17 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    [
+      '@rkaliev/nuxtjs-yandex-metrika',
+      {
+        id: 'XXXXXX',
+        webvisor: boolean,
+        clickmap: boolean,
+        debug: boolean,
+        noJS: boolean,
+        disabled: boolean,
+      },
+    ],
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
