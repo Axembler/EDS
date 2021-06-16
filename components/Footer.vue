@@ -26,7 +26,7 @@
         <p>Разработка и дизайн сайта</p>
         <p>— ОБУ «ИТЦ» 2020</p>
       </div>
-      <noscript><div><img src="https://mc.yandex.ru/watch/81013720" alt=""></div></noscript>
+      <noscript><div><img src="https://mc.yandex.ru/watch/81013720" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     </div>
   </footer>
 </template>
